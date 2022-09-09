@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_PDF_bi bi-file-earmark-pdf-fill</name>
+   <tag></tag>
+   <elementGuidId>f2046d50-ca01-4a4e-9c05-f979891fad5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.bi.bi-file-earmark-pdf-fill</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]//*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9eef2833-a84b-4cac-aa26-1785e4b90bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>32092741-478a-4962-acda-3f357aa7c9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>820fff42-fe19-4cef-997d-7aa79683d89e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>b64e5c1b-85b8-467f-9cce-6155aa0fc07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>2dd46d7d-ba89-496e-9a3a-20969238f04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 16</value>
+      <webElementGuid>7a58cbe3-9c7b-4641-89c5-f96af0f2a025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-file-earmark-pdf-fill</value>
+      <webElementGuid>1a7bf260-98c8-4bbb-b347-dd05fb05fcc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-administracion-marbetes[1]/html[1]/body[1]/div[@class=&quot;container centro&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-12 py-3&quot;]/table[@class=&quot;table table-primary table-striped&quot;]/tbody[1]/tr[1]/td[6]/button[@class=&quot;btn btn-primary letras&quot;]/svg[@class=&quot;bi bi-file-earmark-pdf-fill&quot;]</value>
+      <webElementGuid>2165d5e4-61d3-44b6-842f-88cf1414f96c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>928d11ee-b3e1-43da-bb99-5e14e6778ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Negar'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2a67388e-52d5-4d6a-b917-ee299ee89d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022 Copyright: Grupo Kinal'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b85c550f-cee0-405e-882e-4f18cd70ad2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>50edfd8e-8585-4c96-99b3-3ce41f1f4edb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
